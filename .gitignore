@@ -42,3 +42,6 @@ hs_err_pid*
 # vscode generated files
 *.vscode
 
+# eclipse related
+/bin
+
